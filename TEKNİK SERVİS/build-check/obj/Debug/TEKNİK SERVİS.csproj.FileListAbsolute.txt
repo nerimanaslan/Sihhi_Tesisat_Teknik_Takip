@@ -1,0 +1,7 @@
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\build-check\obj\Debug\TEKNİK SERVİS.csproj.AssemblyReference.cache
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\build-check\obj\Debug\TEKNİK_SERVİS.Form1.resources
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\build-check\obj\Debug\TEKNİK_SERVİS.Properties.Resources.resources
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\build-check\obj\Debug\TEKNİK SERVİS.csproj.GenerateResource.cache
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\build-check\obj\Debug\TEKNİK SERVİS.csprojResolveAssemblyReference.cache
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\build-check\obj\Debug\TEKNİK SERVİS.exe
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\build-check\obj\Debug\TEKNİK SERVİS.pdb

@@ -1,0 +1,90 @@
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Add Male User Group.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Add New.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Add Shopping Cart.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Add User Male.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Broom.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Buy.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Cancel.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Check Mark.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Clear Search.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Clear Shopping Cart.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Close.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Delete Column.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Delete Database.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Delete File.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Denied.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Edit.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Erase.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\ID not Verified.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\lll.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Microsoft Excel.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\PDF.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Print.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Renew.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Restart.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Save.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Update User.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Resources\ButtonIcons\Volunteering.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\TeknikServisS.accdb
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\TEKNİK SERVİS.exe.config
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\TEKNİK SERVİS.exe
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\TEKNİK SERVİS.pdb
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\System.Resources.Extensions.dll
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\System.Formats.Nrbf.dll
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\System.Reflection.Metadata.dll
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\System.ValueTuple.dll
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\System.Collections.Immutable.dll
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-build-check\verify\Microsoft.Bcl.HashCode.dll
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-obj\Debug\TEKNİK SERVİS.csproj.AssemblyReference.cache
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-obj\Debug\TEKNİK_SERVİS.Form1.resources
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-obj\Debug\TEKNİK_SERVİS.Properties.Resources.resources
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-obj\Debug\TEKNİK SERVİS.csproj.GenerateResource.cache
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-obj\Debug\TEKNİK SERVİS.csproj.CoreCompileInputs.cache
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-obj\Debug\TEKN_K S.BD6C6FDE.Up2Date
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-obj\Debug\TEKNİK SERVİS.exe
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\codex-obj\Debug\TEKNİK SERVİS.pdb
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Add Male User Group.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Add New.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Add Shopping Cart.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Add User Male.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Broom.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Buy.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Cancel.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Check Mark.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Clear Search.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Clear Shopping Cart.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Close.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Delete Column.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Delete Database.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Delete File.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Denied.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Edit.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Erase.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\ID not Verified.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\lll.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Microsoft Excel.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\PDF.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Print.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Renew.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Restart.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Save.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Update User.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Resources\ButtonIcons\Volunteering.png
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\TeknikServisS.accdb
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\TEKNİK SERVİS.exe.config
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\TEKNİK SERVİS.exe
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\TEKNİK SERVİS.pdb
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\System.Resources.Extensions.dll
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\System.Formats.Nrbf.dll
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\System.Reflection.Metadata.dll
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\System.ValueTuple.dll
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\System.Collections.Immutable.dll
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-build-check\verify\Microsoft.Bcl.HashCode.dll
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-obj\Debug\TEKNİK SERVİS.csproj.AssemblyReference.cache
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-obj\Debug\TEKNİK_SERVİS.Form1.resources
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-obj\Debug\TEKNİK_SERVİS.Properties.Resources.resources
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-obj\Debug\TEKNİK SERVİS.csproj.GenerateResource.cache
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-obj\Debug\TEKNİK SERVİS.csproj.CoreCompileInputs.cache
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-obj\Debug\TEKN_K S.BD6C6FDE.Up2Date
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-obj\Debug\TEKNİK SERVİS.exe
+C:\Users\CodexSandboxOffline\.codex\.sandbox\cwd\5dcf2b3582493940\codex-obj\Debug\TEKNİK SERVİS.pdb

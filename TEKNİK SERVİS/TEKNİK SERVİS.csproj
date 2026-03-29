@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{37C9AAEB-4485-4C5C-A373-AFB0DE87877D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TEKNİK_SERVİS</RootNamespace>
+    <AssemblyName>TEKNİK SERVİS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <GenerateResourceUsePreserializedResources>true</GenerateResourceUsePreserializedResources>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Net472ReferenceAssembliesPath Condition="Exists('$(ProgramFiles32)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2')">$(ProgramFiles32)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2</Net472ReferenceAssembliesPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <HintPath>$(Net472ReferenceAssembliesPath)\System.Configuration.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>$(Net472ReferenceAssembliesPath)\System.Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <HintPath>$(Net472ReferenceAssembliesPath)\System.Xml.Linq.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <HintPath>$(Net472ReferenceAssembliesPath)\System.Data.DataSetExtensions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <HintPath>$(Net472ReferenceAssembliesPath)\Microsoft.CSharp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <HintPath>$(Net472ReferenceAssembliesPath)\System.Data.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <HintPath>$(Net472ReferenceAssembliesPath)\System.Deployment.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <HintPath>$(Net472ReferenceAssembliesPath)\System.Drawing.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.IO.Compression">
+      <HintPath>$(Net472ReferenceAssembliesPath)\System.IO.Compression.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net.Http">
+      <HintPath>$(Net472ReferenceAssembliesPath)\System.Net.Http.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <HintPath>$(Net472ReferenceAssembliesPath)\System.Windows.Forms.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>$(Net472ReferenceAssembliesPath)\System.Xml.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Resources.Extensions">
+      <HintPath>C:\Program Files\Microsoft SQL Server Management Studio 22\Release\MSBuild\Current\Bin\System.Resources.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory">
+      <HintPath>C:\Program Files\dotnet\sdk\10.0.200\TestHostNetFramework\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics.Vectors">
+      <HintPath>C:\Program Files\dotnet\sdk\10.0.200\TestHostNetFramework\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppAuthentication.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Auth.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Export.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Kurlar.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.SalesAnalytics.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.SalesAnalytics.Layout.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.CariHesap.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TeknikServisSDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TeknikServisSDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TeknikServisSDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TeknikServisSDataSet1.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App1.config" />
+    <None Include="Properties\Settings.settings">
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+      <Generator>SettingsSingleFileGenerator</Generator>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="TeknikServisSDataSet.xsc">
+      <DependentUpon>TeknikServisSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TeknikServisSDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TeknikServisSDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TeknikServisSDataSet.xss">
+      <DependentUpon>TeknikServisSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TeknikServisSDataSet1.xsc">
+      <DependentUpon>TeknikServisSDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="TeknikServisSDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TeknikServisSDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TeknikServisSDataSet1.xss">
+      <DependentUpon>TeknikServisSDataSet1.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\121113.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon2u.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icaon12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-interview-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon52.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon53.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon54.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon55.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add User Male.png" />
+    <Content Include="Resources\ButtonIcons\*.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TeknikServisS.accdb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,51 @@
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Add Male User Group.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Add New.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Add Shopping Cart.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Add User Male.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Broom.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Buy.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Cancel.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Check Mark.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Clear Search.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Clear Shopping Cart.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Close.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Delete Column.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Delete Database.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Delete File.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Denied.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Edit.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Erase.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\ID not Verified.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\lll.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Microsoft Excel.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\PDF.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Print.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Renew.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Restart.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Save.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Update User.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Resources\ButtonIcons\Volunteering.png
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\TeknikServisS.accdb
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\TEKNİK SERVİS.exe.config
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\TEKNİK SERVİS.exe
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\TEKNİK SERVİS.pdb
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\System.Resources.Extensions.dll
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\System.Formats.Nrbf.dll
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\System.ValueTuple.dll
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\obj\Debug\TEKNİK SERVİS.csproj.AssemblyReference.cache
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\obj\Debug\TEKNİK_SERVİS.Form1.resources
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\obj\Debug\TEKNİK_SERVİS.Properties.Resources.resources
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\obj\Debug\TEKNİK SERVİS.csproj.GenerateResource.cache
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\obj\Debug\TEKNİK SERVİS.csproj.CoreCompileInputs.cache
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\obj\Debug\TEKN_K S.BD6C6FDE.Up2Date
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\obj\Debug\TEKNİK SERVİS.exe
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\obj\Debug\TEKNİK SERVİS.pdb
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\System.Memory.dll
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\bin\Debug\System.Buffers.dll
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\obj\Debug\TEKNİK SERVİS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Neriman\source\repos\TEKNİK SERVİS\TEKNİK SERVİS\obj\Debug\TEKNİK SERVİS.exe.config

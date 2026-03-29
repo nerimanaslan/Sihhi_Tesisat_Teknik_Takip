@@ -1,0 +1,20 @@
+				OleDbDataAdapter da = new OleDbDataAdapter(sorgu , baglanti);
+				DataTable dt = new DataTable();
+				da.Fill(dt);
+				dataGridView2.DataSource=dt;
+
+				// Kullanıcının görmesine gerek olmayan ID sütunlarını gizleyelim
+				if(dataGridView2.Columns.Contains("CariDurumID"))
+					dataGridView2.Columns["CariDurumID"].Visible=false;
+				if(dataGridView2.Columns.Contains("CariTipID"))
+					dataGridView2.Columns["CariTipID"].Visible=false;
+
+				// Başlıkları güzelleştirelim
+				dataGridView2.Columns["tc"].HeaderText="TC/VKN";
+				dataGridView2.Columns["DurumAdi"].HeaderText="DURUM";
+				dataGridView2.Columns["TipAdi"].HeaderText="CARİ TİPİ";
+				dataGridView2.Columns["CariID"].HeaderText="ID";
+				dataGridView2.Columns["adsoyad"].HeaderText="AD SOYAD";
+				dataGridView2.Columns["telefon"].HeaderText="TELEFON";
+				dataGridView2.Columns["adres"].HeaderText="ADRES ";
+				// Görsel Hizalama (Opsiyonel ama şık durur)
